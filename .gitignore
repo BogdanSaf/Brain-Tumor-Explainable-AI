@@ -1,2 +1,3 @@
-model/
-weights/
+models/InceptionResNetV2
+models/InceptionV3
+models/ResNet50V2
